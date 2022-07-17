@@ -1,2 +1,2 @@
 # Flash-Chat
-Flash Chat
+Flash Chat using Firebase

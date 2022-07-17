@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "597146849868",
+    "project_id": "flash-chat-fa45f",
+    "storage_bucket": "flash-chat-fa45f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:597146849868:android:11f42c52beafe8d23c1ae9",
+        "android_client_info": {
+          "package_name": "co.Abylay.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "597146849868-1hp17n54vt25gdkbqa9j1cmjifiogotq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYzx9Cq4TfB1_ERqpnXN7ubLtqk3IX504"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "597146849868-1hp17n54vt25gdkbqa9j1cmjifiogotq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
